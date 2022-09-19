@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @adespirito
 - 👀 I’m interested in developing functional tools to improve qualitative data processing effficiency! 
 - 🌱 I’m currently learning Python3 for a variety of programming applications. 
-- 💞️ I’m looking to collaborate on anything related to data management, data processing, word counting, and the NLTK. 
+- 💞️ I’m looking to collaborate on anything related to data management, data processing, text data, and the NLTK library. 
 - 📫 How to reach me at austin.j.despirito@gmail.com
 
 <!---
